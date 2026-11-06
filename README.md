@@ -11,7 +11,6 @@ I want to use data to improve public services in my community and support sustai
 ## Currently
 - Seeking **data analytics or data science internships**
 - Collaborating on team-based analytics projects in my courses
-- Learning [something specific, e.g., machine learning in Python or advanced SQL]
 
 ## Skills
 **Languages:** Python · R · SQL  
